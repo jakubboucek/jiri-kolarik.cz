@@ -1,0 +1,5 @@
+.firebase
+
+#temp
+public/wp-content/uploads
+public/wp-includes/firebase-debug.log

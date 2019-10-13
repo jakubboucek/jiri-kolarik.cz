@@ -4,8 +4,10 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-    ]
       "**/node_modules/**",
       "public/wp-content/uploads/**"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": true
   }
 }
